@@ -3,4 +3,4 @@ LeetCode
 
 Technical Interview Problems: http://leetcode.com
 
-Solved: 5/151
+Solved: 6/151
